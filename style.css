@@ -1,0 +1,15 @@
+.Abd{
+  height: 300px;
+  width: 400px;
+  background-color: green;
+  margin-left: 250px;
+  margin-top: 300px;
+}
+.sm{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  border-radius: 500px;
+  margin-left: 350px;
+  margin-top: -250px;
+}
